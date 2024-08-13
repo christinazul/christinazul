@@ -1,6 +1,6 @@
 - 👋 Hi, this is Christina, I am in high school at the moment.
 - 👀 Interest: Artificial Intelligence, particuarly computer vision and robotics.
-- 🌱 I’m currently learning computer vision by doing small projects.
+- 🌱 I’m currently learning computer vision by doing small projects. I have a little grasp on robotics.
 - 💞️ I’m looking to collaborate on any practical interesting projects to gain experience and knowledge.
 - 📫 Contact via: alongthecoast27@gmail.com
 
